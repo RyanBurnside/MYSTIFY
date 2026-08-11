@@ -3,7 +3,7 @@ Medley Interlisp implementation of "Mystify Your Mind" screensaver.
 From an Interlisp EXEC:
 ```LISP
 (LOAD 'MYSTIFY)
-(MYSTIFY <num points> <bezier mode (T or NIL)>)
+(MYSTIFY <num points> <use splines (T or NIL)>)
 ```
 <img width="831" height="511" alt="MystifyFinal" src="https://github.com/user-attachments/assets/36381c41-49ba-47a7-8a0e-1074d3f780c3" />
 
